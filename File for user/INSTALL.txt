@@ -1,0 +1,2 @@
+You should download the Qt procedure and copy all of the codes for GitHub.
+Then you can use it and do something.

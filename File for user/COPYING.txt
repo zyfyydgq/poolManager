@@ -1,0 +1,3 @@
+We use the GNU GPL licens.
+Please read it.
+Thank you.

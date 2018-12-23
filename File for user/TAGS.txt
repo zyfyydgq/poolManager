@@ -1,0 +1,7 @@
+bug 		Something isn't working  Edit  Delete
+duplicate 	This issue or pull request already exists  Edit  Delete		enhancement	New feature or request  Edit  Delete
+good first	issue Good for newcomers  Edit  Delete
+help wanted	Extra attention is needed  Edit  Delete
+invalid 	This doesn't seem right  Edit  Delete
+question 	Further information is requested  Edit  Delete
+wontfix 	This will not be worked on

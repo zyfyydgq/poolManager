@@ -1,0 +1,30 @@
+Code:
+
+base.cpp	
+base.h	
+calculate.h
+circular.cpp
+circular.h
+design_manger.pro
+design_manger.pro.user
+design_manger.pro.user.fab6bd9
+main.cpp
+mymainwindow.cpp
+mymainwindow.h
+mymainwindow.ui
+rectangle.cpp
+rectangle.h
+rectangle.h.gch
+res.qrc
+trapezium.cpp
+trapezium.h
+utils.h
+utils.h.gch
+
+
+
+Three File:
+
+File for coder
+File for user
+img
